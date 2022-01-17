@@ -1,0 +1,70 @@
+h1 {
+    height: 100px;
+    width: 400px;
+    color: gold;
+    text-align: center;
+    margin-right: 400px;
+    margin-left: 500px;
+    background-image: url(MasterSword.png);
+    background-repeat: no-repeat;
+    background-size: 400px 100px;
+}
+.p1 {
+    position: absolute;
+    height: 100px;
+    width: 400px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    background: url(BOTWBanner.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.img1 {
+    float: right;
+    border: 3px groove orange
+}
+.footer {
+    position: absolute;
+    bottom: 10px;
+    border: 3px solid green;
+    background-color: orange;
+    color: darkgreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2, h3 {
+    text-align: center;
+    margin-right: 400px;
+    margin-left: 500px;
+    color:orange;
+    border: 5px groove orange;
+    background-color: green;
+    Opacity: .7;
+}
+.p2, ol {
+    font-size: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h4 {
+    text-align: center;
+    margin-right: 400px;
+    margin-left: 650px;
+    color:orange;
+    border: 5px groove orange;
+    background-color: green;
+    Opacity: .7;
+}
+iframe {
+    position: absolute;
+    top: 400px;
+    width: 340px;
+    height: 200px;    
+}
+.img2 {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 100px;
+}
